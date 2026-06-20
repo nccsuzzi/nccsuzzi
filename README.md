@@ -1,7 +1,7 @@
 <h1 align="center">Muhammad Usman</h1>
 
 <h3 align="center">
-AI Systems Engineer • LLM Applications • RAG Systems • Multi-Agent Architectures
+AI Engineer • LLM Applications • RAG Systems • Multi-Agent Architectures
 </h3>
 
 <p align="center">
@@ -26,11 +26,3 @@ Building production-grade AI systems with FastAPI, LangGraph, Pinecone, AWS and 
 ## 🔥 Contribution Graph
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nccsuzzi&theme=tokyo-night)](https://github.com/nccsuzzi)
-
-## ⚡ AI Engineering Dashboard
-
-<p align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=nccsuzzi&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nccsuzzi&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
