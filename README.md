@@ -9,7 +9,7 @@ Building production-grade AI systems with FastAPI, LangGraph, Pinecone, AWS and 
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1000&center=true&vCenter=true&width=900&lines=AI+Systems+Engineer;RAG+%7C+Agents+%7C+FastAPI;Published+Researcher;Open+Source+Maintainer;Building+Production+AI+Products" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1000&center=true&vCenter=true&width=900&lines=AI+Engineer;RAG+%7C+Agents+%7C+FastAPI;Published+Researcher;Open+Source+Maintainer;Building+Production+AI+Products" />
 </p>
 
 
