@@ -1,98 +1,36 @@
-<h1 align="center">Hi 👋, I'm Muhammad Usman</h1>
-<h3 align="center">AI/ML Engineer | Backend Developer | Generative AI Enthusiast</h3>
+<h1 align="center">Muhammad Usman</h1>
+
+<h3 align="center">
+AI Systems Engineer • LLM Applications • RAG Systems • Multi-Agent Architectures
+</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nccsuzzi&label=Profile%20Views&color=0e75b6&style=flat" alt="views" />
+Building production-grade AI systems with FastAPI, LangGraph, Pinecone, AWS and Open Source LLMs.
 </p>
-
----
-
-## 🚀 About Me
-
-- 🔭 Currently working on **Speakify Backend**
-- 🤖 Building AI solutions using **LLMs, LangChain, Pinecone & RAG**
-- 👨‍💻 Working as an AI/Backend Engineer
-- 🌱 Learning **Advanced Generative AI & Multi-Agent Systems**
-- 💬 Ask me about **Python, FastAPI, LangChain, PostgreSQL, Docker**
-- 📫 Reach me: **your-email@example.com**
-
----
-
-## 🛠 Tech Stack
-
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-### Backend
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask)
-
-### AI/ML
-![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge)
-![Pinecone](https://img.shields.io/badge/Pinecone-00BFFF?style=for-the-badge)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
-
-### Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql)
-
-### DevOps
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions)
-
----
-
-## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nccsuzzi&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nccsuzzi&layout=compact&theme=tokyonight"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1000&center=true&vCenter=true&width=900&lines=AI+Systems+Engineer;RAG+%7C+Agents+%7C+FastAPI;Published+Researcher;Open+Source+Maintainer;Building+Production+AI+Products" />
 </p>
 
----
 
-## 🔥 Contribution Streak
+## 📈 Engineering Activity
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nccsuzzi&theme=tokyonight"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nccsuzzi&theme=tokyonight&hide_border=true" />
 </p>
 
----
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nccsuzzi&theme=github_dark" />
+</p>
 
-## 📈 Contribution Graph
+## 🔥 Contribution Graph
 
-[![Usman's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nccsuzzi&theme=tokyo-night)](https://github.com/nccsuzzi)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nccsuzzi&theme=tokyo-night)](https://github.com/nccsuzzi)
 
----
+## ⚡ AI Engineering Dashboard
 
-## 🏆 GitHub Trophies
+<p align="center">
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=nccsuzzi&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-![](https://github-profile-trophy.vercel.app/?username=nccsuzzi&theme=tokyonight&no-frame=true&margin-w=15)
-
----
-
-## 🚀 Featured Projects
-
-### 🤖 PDF Question Answering RAG App
-- LangChain + Pinecone + Groq
-- Document Question Answering System
-
-### 👤 Multi-Camera Person Re-Identification
-- YOLOv3
-- TensorFlow
-- Flask
-
-### 🧠 AI Support Chatbot
-- Llama
-- DeepSeek
-- gprMax Automation
-
----
-
-## 🌐 Connect With Me
-
-<p align="left">
-<a href="https://linkedin.com/in/YOUR-LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
-</a>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nccsuzzi&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
