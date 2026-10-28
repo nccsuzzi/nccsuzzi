@@ -66,42 +66,72 @@ class MuhammadUsman(SoftwareEngineer):
 </p>
 
 <!-- ═══════════════════════════ PROJECTS ═══════════════════════════ -->
+<!-- Hidden until real repo names are filled in. To show it: replace
+     REPO_1..REPO_4 and the descriptions, then delete the comment-open
+     line right below this note and the comment-close line after the table. -->
+<!--
+
 <h2 align="center">🚀 Featured Projects</h2>
 
-<!-- Replace REPO_1 / REPO_2 / REPO_3 / REPO_4 with your best repo names -->
-<p align="center">
-  <a href="https://github.com/nccsuzzi/REPO_1"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nccsuzzi&repo=REPO_1&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="REPO_1" /></a>
-  <a href="https://github.com/nccsuzzi/REPO_2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nccsuzzi&repo=REPO_2&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="REPO_2" /></a>
-  <br/>
-  <a href="https://github.com/nccsuzzi/REPO_3"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nccsuzzi&repo=REPO_3&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="REPO_3" /></a>
-  <a href="https://github.com/nccsuzzi/REPO_4"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nccsuzzi&repo=REPO_4&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="REPO_4" /></a>
-</p>
+<table align="center">
+<tr>
+<td width="50%" valign="top">
+
+**[REPO_1](https://github.com/nccsuzzi/REPO_1)**<br/>
+One-line description of what it does.<br/>
+<img src="https://img.shields.io/github/stars/nccsuzzi/REPO_1?style=flat-square&color=7aa2f7&labelColor=1a1b27" /> <img src="https://img.shields.io/github/languages/top/nccsuzzi/REPO_1?style=flat-square&color=bb9af7&labelColor=1a1b27" />
+
+</td>
+<td width="50%" valign="top">
+
+**[REPO_2](https://github.com/nccsuzzi/REPO_2)**<br/>
+One-line description of what it does.<br/>
+<img src="https://img.shields.io/github/stars/nccsuzzi/REPO_2?style=flat-square&color=7aa2f7&labelColor=1a1b27" /> <img src="https://img.shields.io/github/languages/top/nccsuzzi/REPO_2?style=flat-square&color=bb9af7&labelColor=1a1b27" />
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[REPO_3](https://github.com/nccsuzzi/REPO_3)**<br/>
+One-line description of what it does.<br/>
+<img src="https://img.shields.io/github/stars/nccsuzzi/REPO_3?style=flat-square&color=7aa2f7&labelColor=1a1b27" /> <img src="https://img.shields.io/github/languages/top/nccsuzzi/REPO_3?style=flat-square&color=bb9af7&labelColor=1a1b27" />
+
+</td>
+<td width="50%" valign="top">
+
+**[REPO_4](https://github.com/nccsuzzi/REPO_4)**<br/>
+One-line description of what it does.<br/>
+<img src="https://img.shields.io/github/stars/nccsuzzi/REPO_4?style=flat-square&color=7aa2f7&labelColor=1a1b27" /> <img src="https://img.shields.io/github/languages/top/nccsuzzi/REPO_4?style=flat-square&color=bb9af7&labelColor=1a1b27" />
+
+</td>
+</tr>
+</table>
+
+-->
 
 <!-- ═══════════════════════════ STATS ═══════════════════════════ -->
 <h2 align="center">📈 GitHub Analytics</h2>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=nccsuzzi&theme=tokyonight&hide_border=true&background=1a1b27&ring=7aa2f7&fire=bb9af7&currStreakLabel=7aa2f7" alt="Streak" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=nccsuzzi&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="Stats" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=nccsuzzi&theme=tokyonight&hide_border=true&background=1a1b27&ring=7aa2f7&fire=bb9af7&currStreakLabel=7aa2f7" alt="Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nccsuzzi&theme=tokyonight" alt="Repos per language" width="32%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nccsuzzi&theme=tokyonight" alt="Most commit language" width="32%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nccsuzzi&theme=tokyonight&utcOffset=5" alt="Productive time" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nccsuzzi&theme=tokyonight" alt="Stats" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nccsuzzi&theme=tokyonight&utcOffset=5" alt="Productive time" width="49%" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nccsuzzi&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" alt="Trophies" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nccsuzzi&theme=tokyonight" alt="Repos per language" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nccsuzzi&theme=tokyonight" alt="Most commit language" width="49%" />
 </p>
 
 <!-- ═══════════════════════════ CONTRIBUTIONS ═══════════════════════════ -->
 <h2 align="center">🔥 Contribution Activity</h2>
 
 <p align="center">
-  <a href="https://github.com/nccsuzzi">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=nccsuzzi&theme=tokyo-night&hide_border=true&area=true&bg_color=1a1b27&color=7aa2f7&line=bb9af7&point=ffffff" alt="Activity graph" width="100%" />
-  </a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nccsuzzi&theme=tokyonight" alt="Contribution graph" width="100%" />
 </p>
 
 <!-- Generated by .github/workflows/snake.yml -->
